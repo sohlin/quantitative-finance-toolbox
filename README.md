@@ -7,6 +7,14 @@
 + [Binomial Tree](https://github.com/sohlin/quantitative-finance-toolbox/blob/main/notebooks/option_pricing.ipynb)
 + [Monte Carlo Simulation](https://github.com/sohlin/quantitative-finance-toolbox/blob/main/notebooks/option_pricing.ipynb)
 
+### Bond Math
++ [Bloomberg yield curve fitting](https://github.com/sohlin/quantitative-finance-toolbox/blob/main/models/yield_curve.py)
++ [Ho Lee model](https://github.com/sohlin/quantitative-finance-toolbox/blob/main/models/ho_lee.py)
+
+## Statistics
+### OLS
++ [Linear Regression (stats) implementation](https://github.com/sohlin/quantitative-finance-toolbox/blob/main/models/my_regressor.py)
+
 ### Time Series Analysis
 + [ARIMA](https://github.com/sohlin/quantitative-finance-toolbox/blob/main/notebooks/time_series_analysis.ipynb)
 + [ACF/PACF](https://github.com/sohlin/quantitative-finance-toolbox/blob/main/notebooks/time_series_analysis.ipynb)
