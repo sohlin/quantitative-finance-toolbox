@@ -9,7 +9,7 @@
 
 ### Bond Math
 + [Bloomberg yield curve fitting](https://github.com/sohlin/quantitative-finance-toolbox/blob/main/model/yield_curve.py)
-+ [Ho Lee model](https://github.com/sohlin/quantitative-finance-toolbox/blob/main/models/ho_lee.py)
++ [Ho Lee model](https://github.com/sohlin/quantitative-finance-toolbox/blob/main/model/ho_lee.py)
 
 ## Statistics
 ### OLS
