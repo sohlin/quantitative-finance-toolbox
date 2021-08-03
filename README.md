@@ -19,3 +19,7 @@
 + [ARIMA](https://github.com/sohlin/quantitative-finance-toolbox/blob/main/notebooks/time_series_analysis.ipynb)
 + [ACF/PACF](https://github.com/sohlin/quantitative-finance-toolbox/blob/main/notebooks/time_series_analysis.ipynb)
 + [ADF test](https://github.com/sohlin/quantitative-finance-toolbox/blob/main/notebooks/time_series_analysis.ipynb)
+
+### Volatility Analysis
++ [GARCH](https://github.com/sohlin/quantitative-finance-toolbox/blob/main/notebooks/garch_model.ipynb)
++ [Kalman Filter](https://github.com/sohlin/quantitative-finance-toolbox/blob/main/model/state_space_model.py)
