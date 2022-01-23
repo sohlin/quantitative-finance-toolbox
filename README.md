@@ -11,6 +11,19 @@
 + [Bloomberg yield curve fitting](https://github.com/sohlin/quantitative-finance-toolbox/blob/main/model/yield_curve.py)
 + [Ho Lee model](https://github.com/sohlin/quantitative-finance-toolbox/blob/main/model/ho_lee.py)
 
+## Portfolio Optimization
+### Portfolio Optimization Models
++ [Mean Variance Opt](https://github.com/sohlin/quantitative-finance-toolbox/blob/main/notebooks/portfolio_optimization.ipynb)
++ [Risk Parity Opt](https://github.com/sohlin/quantitative-finance-toolbox/blob/main/notebooks/portfolio_optimization.ipynb)
++ [Sharpe Ratio Opt](https://github.com/sohlin/quantitative-finance-toolbox/blob/main/notebooks/portfolio_optimization.ipynb)
++ [Maximum Decorrelation Opt](https://github.com/sohlin/quantitative-finance-toolbox/blob/main/notebooks/portfolio_optimization.ipynb)
++ [Maximum Diversification Opt](https://github.com/sohlin/quantitative-finance-toolbox/blob/main/notebooks/portfolio_optimization.ipynb)
+
+### Constraints & Regulations
++ Transaction costs & market impact
++ Diversification
++ Exploiting structure
+
 ## Statistics
 ### OLS
 + [Linear Regression (stats) implementation](https://github.com/sohlin/quantitative-finance-toolbox/blob/main/model/my_regressor.py)
